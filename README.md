@@ -1,4 +1,4 @@
-##  using obsidian git, from step 1, for the tech unfamiliar (minimal command line usage)
+##  Using Obsidian Git for the tech unfamiliar (minimal command line usage)
 
 ### Creating an account
 
