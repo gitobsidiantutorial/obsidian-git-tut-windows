@@ -29,7 +29,7 @@ Once in github desktop, select File > Options > Account, and log in to your gith
 
 ![](attachments/Pasted%20image%2020210325202742.png)
 
-Now, press File > Clone Repository, and select the empty repository you just created. Where you clone this repository doesn't matter, as ong as you remember where you did it.
+Now, press File > Clone Repository, and select the empty repository you just created. Where you clone this repository doesn't matter, as long as you remember its location.
 
 In the top toolbar once again, select Repository > Open in Command Prompt. Paste `git config --global credential.helper wincred` and press enter. That should set up your credentials.
 
