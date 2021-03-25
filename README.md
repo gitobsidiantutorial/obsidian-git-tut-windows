@@ -10,7 +10,7 @@ Make an account at [github.com](https://github.com/). Create an empty repository
 
 Install [git](https://git-scm.com/download/win). 
 
-When installing, make sure to enable the command line path, otherwise obsidian git has no means of accessing and automating it for you.
+When installing, make sure to enable the command line path, otherwise obsidian git has no means of accessing and automating the backup for you.
 
 ![](attachments/Pasted%20image%2020210325185111.png)
 
@@ -20,12 +20,14 @@ If successful, it should output something like this.
 
 ![](attachments/Pasted%20image%2020210325191407.png)
 
-If this doesn't appear, refer to [Fixing path](Fixing%20path.md)
+If this doesn't appear, refer to [fixing path](Fixing%20PATH.md)
 
 Afterwards, install [github desktop](https://desktop.github.com/). We'll be using github desktop to set up the repository as well as manage credentials.
 
 ### Cloning the repository and setting up your credentials
 Once in github desktop, select File > Options > Account, and log in to your github account.
+
+![](attachments/Pasted%20image%2020210325202742.png)
 
 Now, press File > Clone Repository, and select the empty repository you just created. Where you clone this repository doesn't matter, as ong as you remember where you did it.
 
@@ -60,3 +62,4 @@ Disable safe mode in the community plugins tab if you haven't already. Browse th
 
 In the obsidian git plugin options, you can set a backup interval, to determine how often automatic backups are made. You can still use the above method to guarantee that important changes are definitely pushed to github however.
 
+If you're accessing your vault through git across multiple devices, the github desktop application can be useful to resolve conflicts, but is otherwise no longer needed, as the obsidian git plugin will have automated the committing and pushing process.
