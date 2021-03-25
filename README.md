@@ -50,6 +50,7 @@ Github desktop will have registered a vast number of changes made to your reposi
 
 ![](attachments/Pasted%20image%2020210325195854.png)
 
-### Installing the Obsidian Git plugin.
+### Installing the Obsidian Git plugin
+Disable safe mode in the community plugins tab if you haven't already. Browse the community plugins and search for `Obsidian Git`. Install and enable it. Open the command palette (ctrl+p) and type `git`, and select commit and push all changes. If this tutorial was followed successfully 
 
 ### Fixing PATH
