@@ -10,11 +10,11 @@ Make an account at [github.com](https://github.com/). Create an empty repository
 
 Install [git](https://git-scm.com/download/win). 
 
-When installing, make sure to enable the command line path, otherwise obsidian git has no means of accessing and automating the backup for you.
+When installing, make sure to enable the command line PATH, otherwise obsidian git has no means of accessing and automating the backup for you.
 
 ![](attachments/Pasted%20image%2020210325185111.png)
 
-Check if git was installed successfully by opening the command line [windows+r , `cmd`, enter ] and inputting `git` and pressing enter.
+Check if git was installed successfully by opening the command line interface [windows+r , `cmd`, enter ] and inputting `git` and pressing enter.
 
 If successful, it should output something like this.
 

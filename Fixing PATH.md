@@ -11,6 +11,6 @@ Select Edit the system environment variables, and then click Environment Variabl
 
 ![](attachments/Pasted%20image%2020210325201541.png)
 
-Select Path, and then click edit. Select new, and past `C:\Program Files\Git\bin` or `C:\Program Files (x86)\Git\bin`, depending on which folder exists.
+Select Path, and then click edit. Select new, and paste `C:\Program Files\Git\bin` or `C:\Program Files (x86)\Git\bin`, depending on which folder exists.
 
 Open a command line interface and check if PATH has been configured correctly by typing `git` and pressing enter. If so, continue following the steps in [the tutorial](README.md).
