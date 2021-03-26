@@ -20,7 +20,7 @@ If successful, it should output something like this.
 
 ![](attachments/Pasted%20image%2020210325191407.png)
 
-If this doesn't appear, refer to [fixing path](Fixing%20PATH.md)
+If this doesn't appear, refer to [fixing path](Fixing%20PATH.md).
 
 Afterwards, install [github desktop](https://desktop.github.com/). We'll be using github desktop to set up the repository as well as manage credentials.
 
