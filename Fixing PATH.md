@@ -1,7 +1,7 @@
 # Appendix: Fixing PATH
 If your command line indicates that git is not a recognised command, you must configure your PATH.
 
-Check to see where git was installed. If you didn't change the default settings, it should be installed in  `C:\Program Files\Git\bin` or `C:\Program Files (x86)\Git\bin`.
+Check to see where git for windows was installed. If you didn't change the default settings, it should be installed in  `C:\Program Files\Git\bin` or `C:\Program Files (x86)\Git\bin`.
 
 Press windows to open the start menu and search for PATH.
 
