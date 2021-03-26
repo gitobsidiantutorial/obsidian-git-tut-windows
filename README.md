@@ -8,7 +8,7 @@ Make an account at [github.com](https://github.com/). Create an empty repository
 
 ### Software installation
 
-Install [git](https://git-scm.com/download/win). 
+Install [git for windows](https://git-scm.com/download/win). 
 
 When installing, make sure to enable the command line PATH, otherwise obsidian git has no means of accessing and automating the backup for you.
 
