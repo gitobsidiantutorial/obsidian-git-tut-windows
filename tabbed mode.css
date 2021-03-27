@@ -51,11 +51,13 @@ justify-content: flex-end;
 
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf .view-header-icon,
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf a[aria-label="More options"]{
 display: none;
 }
 
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="Edit (Ctrl/Cmd+Click to edit in new pane)"],
+.mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-activ a[aria-label="Preview (Ctrl/Cmd+Click to open in new pane)"],
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active .view-header-icon,
 .mod-root.workspace-split.mod-vertical > div.workspace-leaf.mod-active a[aria-label="More options"]{
 display: block;
