@@ -58,6 +58,8 @@ Github desktop will have registered a vast number of changes made to your reposi
 
 After committing, press push origin. This button may also read Publish repository to Github.
 
+![image](https://user-images.githubusercontent.com/81381984/113364957-20feba00-9355-11eb-9fed-f5540692b7ea.png)
+
 ![](attachments/Pasted%20image%2020210325211723.png)
 
 ### Installing the Obsidian Git plugin
