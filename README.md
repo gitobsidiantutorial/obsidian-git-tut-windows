@@ -56,7 +56,7 @@ Github desktop will have registered a vast number of changes made to your reposi
 
 ![](attachments/Pasted%20image%2020210325195854.png)
 
-After committing, press push origin.
+After committing, press push origin. This button may also read Publish repository to Github.
 
 ![](attachments/Pasted%20image%2020210325211723.png)
 
